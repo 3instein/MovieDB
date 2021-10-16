@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="btn_hit_main">HIT API</string>
+    <string name="search_movie">Movie ID</string>
+    <string name="img">img</string>
+    <string name="title">title</string>
+    <string name="sub_title">sub title</string>
+    <string name="lbl_overview"><u>Overview</u></string>
+    <string name="lbl_rating"><u>Rating</u></string>
+    <string name="lbl_genres"><u>Genres</u></string>
+</resources>
